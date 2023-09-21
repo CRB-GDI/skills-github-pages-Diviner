@@ -1,4 +1,5 @@
 ---
-A Title: Welcome to my blog
+The Title: Welcome to my blog
 ---
-
+# Welcome text
+Welcome folks. 
